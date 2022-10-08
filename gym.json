@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Vondelgym Oost",
+		"images": [
+			"https://www.vondelgym.nl/administration_uploaded/13/47/27/02_Vondelgym_Oost_Entree_wood_wall_LowRes_TANK_interior_design_Tommy_Kleerekoper_Sanne_Schenk_02.jpg",
+			"https://www.vondelgym.nl/administration_uploaded/13/47/26/01_Vondelgym_Oost_Bar_entree_LowRes_TANK_interior_design_Tommy_Kleerekoper_Sanne_Schenk_03.jpg",
+			"https://www.vondelgym.nl/administration_uploaded/13/47/28/08_Vondelgym_Oost_Lockers_Changing_room_LowRes_TANK_interior_design_Tommy_Kleerekoper_Sanne_Schenk_10.jpg"
+		],
+		"location": "Wibautstraat 131, 1091 GL Amsterdam, Netherlands",
+		"coordinates": {
+			"N": 53.24447860697881,
+			"E": 4.874769224805697
+		},
+		"description": "Vondelgym offers several disciplines under one roof. Everything in the gym happens in one room, so you really get the energy of all classes at the same time. Even our catering area is spatially connected to the sports area. In addition, we thought it was important to pursue the old-fashioned sports club feeling; a place where you know people, are greeted upon entry. The quality of our trainers is also very important, and all our trainers follow our own training program. We are mainly focused on group lessons, something that supports the social aspect. Enjoyment in sports is paramount, not necessarily its aesthetic aspect. That is a consequence, not a goal.",
+		"logo": "https://assets.opencontrolplus.com/a_cs_images/33/85/31/oost.jpg?1620900285",
+		"type": "Body building",
+		"amenities": {
+			"lounge": true,
+			"locker": true,
+			"sauna": false,
+			"wifi": true
+		}
+	},
+	{
+		"name": "YFC GYM 2",
+		"images": [
+			"https://www.vondelgym.nl/administration_uploaded/13/47/27/02_Vondelgym_Oost_Entree_wood_wall_LowRes_TANK_interior_design_Tommy_Kleerekoper_Sanne_Schenk_02.jpg",
+			"https://www.vondelgym.nl/administration_uploaded/13/47/26/01_Vondelgym_Oost_Bar_entree_LowRes_TANK_interior_design_Tommy_Kleerekoper_Sanne_Schenk_03.jpg",
+			"https://www.vondelgym.nl/administration_uploaded/13/47/28/08_Vondelgym_Oost_Lockers_Changing_room_LowRes_TANK_interior_design_Tommy_Kleerekoper_Sanne_Schenk_10.jpg"
+		],
+		"location": "Wibautstraat 131, 1091 GL Amsterdam, Netherlands",
+		"coordinates": {
+			"N": 53.24447860697881,
+			"E": 4.874769224805697
+		},
+		"description": "Vondelgym offers several disciplines under one roof. Everything in the gym happens in one room, so you really get the energy of all classes at the same time. Even our catering area is spatially connected to the sports area. In addition, we thought it was important to pursue the old-fashioned sports club feeling; a place where you know people, are greeted upon entry. The quality of our trainers is also very important, and all our trainers follow our own training program. We are mainly focused on group lessons, something that supports the social aspect. Enjoyment in sports is paramount, not necessarily its aesthetic aspect. That is a consequence, not a goal.",
+		"logo": "https://assets.opencontrolplus.com/a_cs_images/33/85/31/oost.jpg?1620900285",
+		"type": "Body building",
+		"amenities": {
+			"lounge": true,
+			"locker": true,
+			"sauna": false,
+			"wifi": true
+		}
+	}
+]
